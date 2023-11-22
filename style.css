@@ -1,0 +1,25 @@
+body {
+    padding: 25px;
+    background-color: aliceblue;
+    color: rgb(15, 15, 15);
+}
+.dark-mode {
+    background-color: rgb(15, 15, 15);
+    color: aliceblue;
+    #btn {
+        background-color: whitesmoke;
+        border: 0;
+        padding: 10px 15px;
+        font-size: 2rem;
+        border-radius: 7px;
+    }
+}
+
+#btn {
+    background-color: rgb(87, 83, 83);
+    border: 0;
+    padding: 10px 15px;
+    font-size: 2rem;
+    border-radius: 7px;
+
+}
